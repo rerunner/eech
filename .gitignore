@@ -21,3 +21,4 @@ mt.dep
 *.pdb
 Debug/*
 Release/*
+.vs/EECH-MSVC/v16/Browse.VC.db
