@@ -858,7 +858,7 @@ void scan_3d_terrain ( void )
 
 											sorting_slot->type = OBJECT_3D_DRAW_TYPE_TERRAIN_3D_TREE_OBJECT;
 											sorting_slot->z = *( ( int * ) &range );
-											sorting_slot->terrain_tree.dissolve = 255.0 * max(0, (1 - (3 - max (3000, range) / 1000) * (3 - max (3000, range) / 1000))); // trees dissolve begin to decrease at 3000m thealx 130501 //255.0 - ( ( sq_range / ( 4000.0 * 4000.0 ) ) * 255.0 );
+											sorting_slot->terrain_tree.dissolve = 255.0 * (int)max(0, (1 - (3 - (int)max(3000, (int)range) / 1000) * (3 - (int)max(3000, (int)range) / 1000))); // trees dissolve begin to decrease at 3000m thealx 130501 //255.0 - ( ( sq_range / ( 4000.0 * 4000.0 ) ) * 255.0 );
 											sorting_slot->terrain_tree.x = x;
 											sorting_slot->terrain_tree.y = y;
 											sorting_slot->terrain_tree.z = z;

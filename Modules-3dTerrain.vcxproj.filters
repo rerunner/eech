@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="terrain">
+      <UniqueIdentifier>{07b2d1b4-9faa-4ef5-9dc0-5b552ca2bcb2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modules\terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrain.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrbuf.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrcons.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrdata.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrdr.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrdrcl.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrelev.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrgeom.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrmap.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrobjs.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrre.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrsel.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\terrain\terrtype.h">
+      <Filter>terrain</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="modules\3d\terrain\terrbuf.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrcons.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrdata.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrdr.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrdrcl.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrelev.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrgeom.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrmap.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrobjs.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrre.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrsel.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\terrain\terrtype.c">
+      <Filter>terrain</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

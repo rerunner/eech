@@ -1039,6 +1039,80 @@ void debug_fatal ( const char *string, ... )
 	end_application ();
 }
 
+void debug_warning(const char *string, ...)
+{
+
+	va_list
+		argument_list;
+
+	FILE
+		*fp;
+
+	char
+		buffer[4096];
+
+	//
+	// Work out what to output
+	//
+
+	va_start(argument_list, string);
+
+	vsprintf(buffer, string, argument_list);
+
+	va_end(argument_list);
+
+	if (debug_log_state)
+	{
+
+		//
+		// Open file for append.
+		//
+
+		fp = fopen(debug_log_file_name, "a");
+
+		if (fp)
+		{
+
+			//
+			// Output the buffer to the file with ***FATAL*** so that it is easy to find.
+			//
+
+			fputs("************************************ FATAL ***********************************\n", fp);
+
+			fputs(buffer, fp);
+
+			fputs("\n", fp);
+
+			//
+			// Close the file, just incase the system is unstable, so that the file is intact
+			//
+
+			fclose(fp);
+		}
+	}
+
+	//
+	// Make sound to annoy everyone
+	//
+
+#ifdef DEBUG
+
+	if (debug_fatal_warning_tone)
+	{
+
+		int
+			count;
+
+		for (count = 1000; count > 500; count -= 50)
+		{
+
+			Beep(count, 100);
+		}
+	}
+
+#endif
+}
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -1,0 +1,760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ui_draw">
+      <UniqueIdentifier>{7ad27854-0ea8-4932-85d2-49a958b4bd63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj">
+      <UniqueIdentifier>{d51e0b21-c4bc-4558-abf7-02117e59772c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\area">
+      <UniqueIdentifier>{b0f90ac8-9144-4da6-8f75-0f152d229510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\button">
+      <UniqueIdentifier>{3f09d27a-85f1-49cf-a927-93e07992d5a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\close">
+      <UniqueIdentifier>{067d3033-aac5-4023-8edb-35300d6585b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\input">
+      <UniqueIdentifier>{ddaecb39-4af5-457a-8578-6204b967eafd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\list">
+      <UniqueIdentifier>{4df48fd8-c003-4e3f-8a7d-17c63c606868}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\menu">
+      <UniqueIdentifier>{fb001331-a336-465b-a878-4ffe5967c51a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\number">
+      <UniqueIdentifier>{114c524d-692d-4cd1-b301-8c8edc59c365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\radio">
+      <UniqueIdentifier>{bf851277-0234-416c-8321-815740b23ac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\screen">
+      <UniqueIdentifier>{5789a39f-51bd-4249-b884-67db741942b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\slider">
+      <UniqueIdentifier>{4cb6a8ad-8d2b-4a73-955f-5b02a2a974bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\text">
+      <UniqueIdentifier>{248bad33-6521-4946-89e8-e9b901022a5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_obj\toggle">
+      <UniqueIdentifier>{1e7dbc0c-03b7-402d-ae21-b3bdcb42f3ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_sys">
+      <UniqueIdentifier>{49acd1d5-48ff-4c60-a61b-53aa7d909c5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_sys\ui_attrs">
+      <UniqueIdentifier>{d3212491-5a55-43ce-8e20-548c1aa6d52a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_sys\ui_funcs">
+      <UniqueIdentifier>{41d7e266-951e-4f32-8309-3c800520bae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui_sys\ui_types">
+      <UniqueIdentifier>{83652654-085b-46a0-ac0a-92eda2aef8d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="modules\userint2\ui_draw\uiarea.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uibutton.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uiclip.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uicolour.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uifont.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uigraph.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uihilght.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uiorigin.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uiscreen.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_draw\uiwindow.c">
+      <Filter>ui_draw</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\ui_obj.c">
+      <Filter>ui_obj</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_col.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_creat.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_draw.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_flags.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_fns.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_funcs.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_graph.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_links.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_notif.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_org.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_pos.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_ptr.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_size.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_slid.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_txt.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\ar_updt.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\area\area.c">
+      <Filter>ui_obj\area</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\button\bu_creat.c">
+      <Filter>ui_obj\button</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\button\bu_draw.c">
+      <Filter>ui_obj\button</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\button\bu_funcs.c">
+      <Filter>ui_obj\button</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\close\cl_creat.c">
+      <Filter>ui_obj\close</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\close\cl_draw.c">
+      <Filter>ui_obj\close</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\close\cl_funcs.c">
+      <Filter>ui_obj\close</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\close\close.c">
+      <Filter>ui_obj\close</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\in_creat.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\in_draw.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\in_flags.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\in_funcs.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\in_updt.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\input\input.c">
+      <Filter>ui_obj\input</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_creat.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_draw.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_flags.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_funcs.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_size.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\li_updt.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\list\list.c">
+      <Filter>ui_obj\list</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\menu\me_creat.c">
+      <Filter>ui_obj\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\menu\me_draw.c">
+      <Filter>ui_obj\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\menu\me_funcs.c">
+      <Filter>ui_obj\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\menu\me_updt.c">
+      <Filter>ui_obj\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\menu\menu.c">
+      <Filter>ui_obj\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_creat.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_draw.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_flags.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_fns.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_funcs.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\nu_txt.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\number\number.c">
+      <Filter>ui_obj\number</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\radio\ra_creat.c">
+      <Filter>ui_obj\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\radio\ra_flags.c">
+      <Filter>ui_obj\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\radio\ra_fns.c">
+      <Filter>ui_obj\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\radio\ra_funcs.c">
+      <Filter>ui_obj\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\radio\radio.c">
+      <Filter>ui_obj\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\screen\sc_creat.c">
+      <Filter>ui_obj\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\screen\sc_draw.c">
+      <Filter>ui_obj\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\screen\sc_funcs.c">
+      <Filter>ui_obj\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\screen\sc_updt.c">
+      <Filter>ui_obj\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\screen\screen.c">
+      <Filter>ui_obj\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\ms_creat.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\ms_draw.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\ms_flags.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\ms_funcs.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\ms_updt.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\mslider.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\sl_funcs.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\sl_slid.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\slider.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\vs_creat.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\vs_draw.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\vs_funcs.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\vs_updt.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\slider\vslider.c">
+      <Filter>ui_obj\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_col.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_creat.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_draw.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_flags.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_fns.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_funcs.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\text\tx_txt.c">
+      <Filter>ui_obj\text</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\toggle\to_flags.c">
+      <Filter>ui_obj\toggle</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\toggle\to_fns.c">
+      <Filter>ui_obj\toggle</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\toggle\to_funcs.c">
+      <Filter>ui_obj\toggle</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_obj\toggle\toggle.c">
+      <Filter>ui_obj\toggle</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_sys.c">
+      <Filter>ui_sys</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_attrs\ui_attrs.c">
+      <Filter>ui_sys\ui_attrs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_color.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_creat.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_draw.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_flags.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_fns.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_funcs.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_graph.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_links.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_notif.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_org.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_pos.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_ptr.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_size.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_slid.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_txt.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_funcs\ui_updt.c">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_sys\ui_types\ui_types.c">
+      <Filter>ui_sys\ui_types</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\userint2\ui_man.c" />
+    <ClCompile Include="modules\userint2\ui_paint.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modules\userint2\ui_draw\uiarea.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uibutton.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uiclip.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uicolour.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uifont.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uigraph.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uihilght.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uiorigin.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uiscreen.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_draw\uiwindow.h">
+      <Filter>ui_draw</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\ui_obj.h">
+      <Filter>ui_obj</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_col.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_creat.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_draw.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_flags.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_fns.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_funcs.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_graph.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_links.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_notif.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_org.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_pos.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_ptr.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_size.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_slid.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_txt.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\ar_updt.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\area\area.h">
+      <Filter>ui_obj\area</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\button\bu_creat.h">
+      <Filter>ui_obj\button</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\button\bu_draw.h">
+      <Filter>ui_obj\button</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\button\bu_funcs.h">
+      <Filter>ui_obj\button</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\button\button.h">
+      <Filter>ui_obj\button</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\close\cl_creat.h">
+      <Filter>ui_obj\close</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\close\cl_draw.h">
+      <Filter>ui_obj\close</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\close\cl_funcs.h">
+      <Filter>ui_obj\close</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\close\close.h">
+      <Filter>ui_obj\close</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\in_creat.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\in_draw.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\in_flags.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\in_funcs.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\in_updt.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\input\input.h">
+      <Filter>ui_obj\input</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_creat.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_draw.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_flags.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_funcs.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_size.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\li_updt.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\list\list.h">
+      <Filter>ui_obj\list</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\menu\me_creat.h">
+      <Filter>ui_obj\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\menu\me_draw.h">
+      <Filter>ui_obj\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\menu\me_funcs.h">
+      <Filter>ui_obj\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\menu\me_updt.h">
+      <Filter>ui_obj\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\menu\menu.h">
+      <Filter>ui_obj\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_creat.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_draw.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_flags.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_fns.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_funcs.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\nu_txt.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\number\number.h">
+      <Filter>ui_obj\number</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\radio\ra_creat.h">
+      <Filter>ui_obj\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\radio\ra_flags.h">
+      <Filter>ui_obj\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\radio\ra_fns.h">
+      <Filter>ui_obj\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\radio\ra_funcs.h">
+      <Filter>ui_obj\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\radio\radio.h">
+      <Filter>ui_obj\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\screen\sc_creat.h">
+      <Filter>ui_obj\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\screen\sc_draw.h">
+      <Filter>ui_obj\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\screen\sc_funcs.h">
+      <Filter>ui_obj\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\screen\sc_updt.h">
+      <Filter>ui_obj\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\screen\screen.h">
+      <Filter>ui_obj\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\ms_creat.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\ms_draw.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\ms_flags.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\ms_funcs.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\ms_updt.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\mslider.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\sl_funcs.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\sl_slid.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\slider.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\vs_creat.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\vs_draw.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\vs_funcs.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\vs_updt.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\slider\vslider.h">
+      <Filter>ui_obj\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\text.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_col.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_creat.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_draw.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_flags.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_fns.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_funcs.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\text\tx_txt.h">
+      <Filter>ui_obj\text</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\toggle\to_flags.h">
+      <Filter>ui_obj\toggle</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\toggle\to_fns.h">
+      <Filter>ui_obj\toggle</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\toggle\to_funcs.h">
+      <Filter>ui_obj\toggle</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_obj\toggle\toggle.h">
+      <Filter>ui_obj\toggle</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_sys.h">
+      <Filter>ui_sys</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_attrs\ui_attrs.h">
+      <Filter>ui_sys\ui_attrs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_color.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_creat.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_draw.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_flags.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_fns.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_funcs.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_graph.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_links.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_notif.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_org.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_pos.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_ptr.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_size.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_slid.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_txt.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_funcs\ui_updt.h">
+      <Filter>ui_sys\ui_funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\ui_sys\ui_types\ui_types.h">
+      <Filter>ui_sys\ui_types</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\userint2\oaidl.h" />
+    <ClInclude Include="modules\userint2\ui_man.h" />
+    <ClInclude Include="modules\userint2\ui_paint.h" />
+    <ClInclude Include="modules\userint.h" />
+    <ClInclude Include="modules\userint2.h" />
+  </ItemGroup>
+</Project>

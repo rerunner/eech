@@ -87,8 +87,8 @@ static void draw_sub_object ( object_3d_sub_instance *obj, object_3d_database_en
 
 static void add_transparent_surface ( int clipped );
 
-int OLD_CURRENT_3D_OBJECT_FACE_FACING ( void ),
-	fog;
+int OLD_CURRENT_3D_OBJECT_FACE_FACING(void);
+extern int	fog; //RERUN made extern
 
 void draw_3d_translucent_surface_clipped_faces ( translucent_object_surface *surface );
 

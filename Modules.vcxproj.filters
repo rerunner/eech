@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="maths">
+      <UniqueIdentifier>{c04aa14d-5046-46c0-b49b-c808b8f9a8d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{da7edb74-ddac-4902-aa00-e8ce52c0529e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="misc">
+      <UniqueIdentifier>{8f0808c5-45c2-47f1-9286-252e7bbfb35b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="multi">
+      <UniqueIdentifier>{0510ce8d-c554-4375-9f62-116e98439bd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system">
+      <UniqueIdentifier>{b16c6289-093e-456e-b810-ecf1e43b09af}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="modules\maths\constant.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\fixedpt.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\initmath.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\invsqrt.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\matrix.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\miscmath.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\projtile.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\qternion.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\random.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\range.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\reciptab.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\tevent.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\trig.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\maths\vector.c">
+      <Filter>maths</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\sound\dirsound.c">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\sound\dsound.c">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\sound\dsound3d.c">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\sound\soundhlp.c">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\sound\soundman.c">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\misc\file_tag.c">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\misc\iff.c">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\misc\int_list.c">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\misc\string.c">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\multi\directp.c">
+      <Filter>multi</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\multi\dpguid.c">
+      <Filter>multi</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\multi\server.c">
+      <Filter>multi</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\ascii.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\assert.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\cdrom.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\cpuclock.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\debug.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\ev_alpha.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\ev_stack.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\event.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\filedir.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\files.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\fpu.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\joyevent.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\joystick.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\keyboard.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\keyevent.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\keymapping.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\memblock.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\memcmp.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\memory.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\mouse.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\safemem.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\startup.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\sysinput.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\sysmess.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\time.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\timer.c">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\system\trackir.c">
+      <Filter>system</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modules\maths\constant.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\convert.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\fixedpt.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\initmath.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\invsqrt.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\matrix.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\miscmath.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\projtile.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\qternion.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\random.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\range.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\reciptab.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\tevent.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\trig.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\vector.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths\vertex.h">
+      <Filter>maths</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\sound\dirsound.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\sound\dsound.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\sound\dsound3d.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\sound\soundhlp.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\sound\soundman.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\misc\file_tag.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\misc\iff.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\misc\int_list.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\misc\listitem.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\misc\string.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\ascii.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\assert.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\cdrom.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\cpuclock.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\debug.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\ev_alpha.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\ev_stack.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\event.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\filedir.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\files.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\fpu.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\joyevent.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\joystick.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\keyboard.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\keyevent.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\keymapping.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\memblock.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\memcmp.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\memory.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\mouse.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\safemem.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\startup.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\sysinput.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\sysmess.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\time.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\timer.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\system\trackir.h">
+      <Filter>system</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\maths.h" />
+    <ClInclude Include="modules\misc.h" />
+    <ClInclude Include="modules\multi.h" />
+    <ClInclude Include="modules\physics.h" />
+    <ClInclude Include="modules\sound.h" />
+    <ClInclude Include="modules\system.h" />
+    <ClInclude Include="modules\system2.h" />
+  </ItemGroup>
+</Project>

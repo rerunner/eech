@@ -395,7 +395,7 @@ LPDIRECTSOUNDBUFFER dsound_duplicate_sound_buffer ( LPDIRECTSOUNDBUFFER buffer, 
 		memset ( &dsbdesc, 0, sizeof ( DSBUFFERDESC ) );
 		dsbdesc.dwSize = sizeof ( DSBUFFERDESC );
 		dsbdesc.lpwfxFormat = ( LPWAVEFORMATEX ) &pcmwf;
-		dsbdesc.dwFlags = DSBCAPS_CTRLFREQUENCY | DSBCAPS_CTRLPAN | DSBCAPS_CTRLVOLUME | DSBCAPS_LOCHARDWARE;
+		dsbdesc.dwFlags = DSBCAPS_CTRLFREQUENCY | DSBCAPS_CTRLPAN | DSBCAPS_CTRLVOLUME | DSBCAPS_LOCDEFER; //RERUN, was DSBCAPS_LOCHARDWARE
 		dsbdesc.dwBufferBytes = size;
 
 		dsrval = IDirectSound_CreateSoundBuffer ( dsound, &dsbdesc, &duplicand, NULL );

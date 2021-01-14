@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="clouds">
+      <UniqueIdentifier>{e1617536-6764-4b7a-a63d-e5950afb1815}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="modules\3d\3danim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dclip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dconfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dconstr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3ddisp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3denvget.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3denvset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dexplos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dfaces.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dfclip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3DFUNC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dhoriz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dkeyfr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dlight.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dmoon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjbuf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjdb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjdrh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjdrw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjdrz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobject.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjvb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjvis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dobjzdr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dpixel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3drain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dscene.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dscon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dshadow.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dsprite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dstars.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dstrail.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dstrike.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dsubobj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dsun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dtemp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dview.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dwface1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\3dwface2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\clouds\3dclouds.c">
+      <Filter>clouds</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\clouds\3dtrump.c">
+      <Filter>clouds</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\3d\clouds\clouds.c">
+      <Filter>clouds</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modules\3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3danim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dclip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dconstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3ddisp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3denvstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dexplos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dfaces.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dfclip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3DFUNC.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dhoriz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dkeyfr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dlight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dmoon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjbuf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjdb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjdrh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjdrw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjdrz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjvb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjvis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dobjzdr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dpixel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3drain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dscene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dscon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dshadow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dsprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dstars.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dstrail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dstrike.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dsubobj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dsun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dtemp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dtrans.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\3dview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\clouds\3dclouds.h">
+      <Filter>clouds</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\clouds\3dtrump.h">
+      <Filter>clouds</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\3d\clouds\clouds.h">
+      <Filter>clouds</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

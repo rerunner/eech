@@ -130,7 +130,7 @@ void set_viewport ( float x_min, float y_min, float x_max, float y_max )
 			fwidth,
 			fheight;
 
-		int
+		DWORD
 			iwidth,
 			iheight;
 
@@ -148,8 +148,8 @@ void set_viewport ( float x_min, float y_min, float x_max, float y_max )
 		fwidth = x_max - x_min;
 		fheight = y_max - y_min;
 
-		iwidth = ( int ) fwidth;
-		iheight = ( int ) fheight;
+		iwidth = (DWORD) fwidth;
+		iheight = (DWORD) fheight;
 
 		if ( ( fwidth - ( float ) iwidth ) != 0.0 )
 		{

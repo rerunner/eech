@@ -159,6 +159,8 @@ extern void initialise_debug_system ( int logging );
 
 extern void debug_fatal ( const char *string, ... );
 
+extern void debug_warning(const char *string, ...);
+
 #ifdef DEBUG
 
 extern void debug_log ( const char *string, ... );

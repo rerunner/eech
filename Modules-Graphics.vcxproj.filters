@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="2d">
+      <UniqueIdentifier>{8e15454f-0eda-4033-a47a-1d71811c2e75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="graphics">
+      <UniqueIdentifier>{a44e35c5-e088-42b9-a418-edfd493d8063}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="modules\2d\2dart.c">
+      <Filter>2d</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\2d\2dview.c">
+      <Filter>2d</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\2d\2dwrap.c">
+      <Filter>2d</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\block.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\circle.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\clip.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\colour.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\d3d.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\d3dfog.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\d3dpoly.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\d3dstate.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\d3dvert.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\dassess.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\dirdraw.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\dither.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\dresol.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\gfxzoom.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\heckfill.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\lbm.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\line.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\mipmap.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\monofont.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\monosprt.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\mouseptr.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\palette.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\pixel.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\pixeltxt.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\polyd3d.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\polyline.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\psdread.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\psdwrite.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\render.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\rgb.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\rle.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\screens.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\shadfill.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\tempbuf.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\textscrn.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\textsys.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\textures.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\textuser.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\tga.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\tranbuf.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\vcache.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\viewport.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\graphics\zbuffer.c">
+      <Filter>graphics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="modules\2d\2dart.h">
+      <Filter>2d</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\2d\2dview.h">
+      <Filter>2d</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\2d\2dwrap.h">
+      <Filter>2d</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\bin.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\block.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\circle.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\clip.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\colour.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\d3d.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\d3dfog.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\d3dpoly.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\d3dstate.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\d3dvert.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\dassess.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\dirdraw.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\dither.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\dresol.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\gfxzoom.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\heckfill.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\lbm.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\line.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\mipmap.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\monofont.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\monosprt.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\mouseptr.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\palette.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\pixel.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\pixeltxt.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\polyd3d.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\polyline.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\psdread.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\psdwrite.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\render.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\rgb.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\rle.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\screens.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\scrnstr.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\shadfill.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\tempbuf.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\textscrn.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\textsys.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\textures.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\textuser.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\tga.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\tranbuf.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\vcache.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\vertex.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\viewport.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics\zbuffer.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="modules\graphics\fillasm.asm">
+      <Filter>graphics</Filter>
+    </None>
+    <None Include="modules\graphics\zbufasm.asm">
+      <Filter>graphics</Filter>
+    </None>
+  </ItemGroup>
+</Project>

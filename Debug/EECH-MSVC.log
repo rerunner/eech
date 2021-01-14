@@ -1,0 +1,1346 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Modules-3dTerrain.vcxproj, Modules-3d.vcxproj, Modules-Graphics.vcxproj, Modules-UserInt2.vcxproj, Modules.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ai_extrn.c
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  wutcfg.c
+  update.c
+  titl_sc.c
+  sparm_sc.c
+  uisession.c
+  uisess_fn.c
+  sess_sc.c
+  mission.c
+  player.c
+  play_wp.c
+  play_sc.c
+  play_md.c
+  play_hours.c
+  play_gn.c
+  options.c
+  op_snd.c
+  op_real.c
+  op_insnd.c
+  op_grafx.c
+  op_dynam.c
+  Generating Code...
+  Compiling...
+  op_ctrlr.c
+  op_commn.c
+  mult_sc.c
+  mult_fn.c
+  modcredits.c
+  menus.c
+  main_sc.c
+  main_fn.c
+  load_sc.c
+  init_sc.c
+  fflight.c
+  ff_selct.c
+  ff_map.c
+  ff_info.c
+  map.c
+  infobar.c
+  common.c
+  campaign.c
+  ca_wload.c
+  ca_stat.c
+  Generating Code...
+  Compiling...
+  ca_sort.c
+  ca_selct.c
+  ca_save.c
+  ca_msgs.c
+  ca_menu.c
+  ca_map.c
+  ca_log.c
+  ca_list.c
+  ca_info.c
+  ca_hist.c
+  ca_group.c
+  ca_fsmap.c
+  ca_dbf.c
+  ca_chat.c
+  ca_brief.c
+  ca_base.c
+  ca_3d.c
+  guns_sc.c
+  gmty_sc.c
+  gametype.c
+  Generating Code...
+  Compiling...
+  exit_sc.c
+  dedi_sc.c
+  zone_sc.c
+  credits.c
+  advert.c
+  test.c
+  sharedmem.c
+  servlog.c
+  project.c
+  tod.c
+  timeaccl.c
+  terr_db.c
+  tags.c
+  secure.c
+  scrnshot.c
+  msg_out.c
+  msg_in.c
+  miscell.c
+  message.c
+  language.c
+  Generating Code...
+  Compiling...
+  gameexit.c
+  airspeed.c
+  install.c
+  init.c
+  gwutcfg.c
+  vm_vckpt.c
+  vm_updt.c
+  vm_satinfo.c
+  vm_safe.c
+  vm_menu.c
+  vm_main.c
+  vm_init.c
+  vm_headmovement.c
+  vm_fixed.c
+  vm_extrn.c
+  vm_event.c
+  vm_draw.c
+  vm_data.c
+  vi_dyn.c
+  ki_dyn.c
+  Generating Code...
+  Compiling...
+  hm_dyn.c
+  ho_dyn.c
+  hi_dyn.c
+  ha_dyn.c
+  dynamics.c
+  pedal.c
+  cyclic.c
+  collect.c
+  co_undercarriage.c
+  co_force.c
+  co_event.c
+  co_dyn.c
+  co_dmg.c
+  cm_dyn.c
+  bh_dyn.c
+  ap_dyn.c
+  ah_dyn.c
+  vi_wiper.c
+  vi_vckpt.c
+  vi_pilot.c
+  Generating Code...
+  Compiling...
+  vi_lamps.c
+  vi_doors.c
+  vi_crew.c
+  vi_cpg.c
+  vi_ckpt.c
+  ki_wiper.c
+  ki_vckpt.c
+  ki_pilot.c
+  ki_lamps.c
+  ki_instr.c
+  ki_doors.c
+  ki_crew.c
+  ki_cpg.c
+  ki_ckpt.c
+  hm_wiper.c
+  hm_vckpt.c
+  hm_pilot.c
+  hm_lamps.c
+  hm_instr.c
+  hm_doors.c
+  Generating Code...
+  Compiling...
+  hm_crew.c
+  hm_ckpt.c
+  hk_wiper.c
+  hk_vckpt.c
+  hk_pilot.c
+  hk_lamps.c
+  hk_instr.c
+  hk_doors.c
+  hk_crew.c
+  hk_cpg.c
+  hk_ckpt.c
+  hi_wiper.c
+  hi_vckpt.c
+  hi_lamps.c
+  hi_instr.c
+  hi_ckpt.c
+  hi_3dwiper.c
+  hi_3dvckpt.c
+  ha_wiper.c
+  ha_vckpt.c
+  Generating Code...
+  Compiling...
+  ha_lamps.c
+  ha_instr.c
+  ha_ckpt.c
+  df_wiper.c
+  df_vckpt.c
+  df_lamps.c
+  df_instr.c
+  df_ckpt.c
+  df3d_vckpt.c
+  co_wiper.c
+  co_vckpt.c
+  co_crew.c
+  co_ckpt.c
+  cm_wiper.c
+  cm_vckpt.c
+  cm_pilot.c
+  cm_lamps.c
+  cm_doors.c
+  cm_crew.c
+  cm_cpg.c
+  Generating Code...
+  Compiling...
+  cm_ckpt.c
+  cockpits.c
+  bh_wiper.c
+  bh_vckpt.c
+  bh_lamps.c
+  bh_instr.c
+  bh_ckpt.c
+  ap_wiper.c
+  ap_vckpt.c
+  ap_lamps.c
+  ap_instr.c
+  ap_cpg.c
+  ap_ckpt.c
+  ap3d_vckpt.c
+  ah_wiper.c
+  ah_vckpt.c
+  ah_lamps.c
+  ah_instr.c
+  ah_ckpt.c
+  vi_thrt.c
+  Generating Code...
+  Compiling...
+  vi_tgt.c
+  vi_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(355): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(403): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(427): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(453): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(475): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(493): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(511): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(531): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(545): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(561): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(578): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(595): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(612): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(766): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(778): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(5688): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(5736): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(5776): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_mfd.c(5816): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  vi_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_hud.c(214): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_hud.c(231): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\viper\vi_hud.c(245): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  vi_hms.c
+  vi_eo.c
+  vi_dam.c
+  vi_cowpn.c
+  vi_avlmp.c
+  vi_avevn.c
+  ki_thrt.c
+  ki_tgt.c
+  ki_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(330): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(378): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(402): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(428): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(450): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(468): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(486): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(506): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(520): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(536): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(553): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(570): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(587): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(741): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_mfd.c(753): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ki_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_hud.c(214): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_hud.c(231): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\kiowa\ki_hud.c(245): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ki_hms.c
+  ki_eo.c
+  ki_dam.c
+  ki_cowpn.c
+  ki_avlmp.c
+  ki_avevn.c
+  hm_wpn.c
+  Generating Code...
+  Compiling...
+  hm_thrt.c
+  hm_tgt.c
+  hm_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(441): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(457): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(470): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(481): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(494): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(505): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(601): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(649): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(673): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(699): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(721): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(739): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(757): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(777): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(791): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(807): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_mfd.c(5511): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hm_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(155): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(169): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(186): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(203): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(216): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(229): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(240): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ka50\hm_hud.c(251): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hm_hms.c
+  hm_eo.c
+  hm_dam.c
+  hm_avlmp.c
+  hm_avevn.c
+  hk_wpn.c
+  hk_thrt.c
+  hk_tgt.c
+  hk_radar.c
+  hk_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(329): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(359): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(375): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(388): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(399): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(412): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(423): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(525): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(573): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(597): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(623): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(645): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(663): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(681): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(701): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(715): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(731): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_mfd.c(7168): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hk_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(155): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(169): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(186): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(203): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(216): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(229): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(240): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hokum\hk_hud.c(251): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hk_hms.c
+  hk_eo.c
+  hk_dam.c
+  hk_avlmp.c
+  hk_avevn.c
+  Generating Code...
+  Compiling...
+  hi_wpn.c
+  hi_thrt.c
+  hi_tgt.c
+  hi_radar.c
+  hi_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hind\hi_mfd.c(371): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hind\hi_mfd.c(384): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hind\hi_mfd.c(397): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hi_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hind\hi_hud.c(163): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\hind\hi_hud.c(176): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  hi_hms.c
+  hi_eo.c
+  hi_ekran.c
+  hi_dam.c
+  hi_avlmp.c
+  hi_avevn.c
+  ha_wpn.c
+  ha_thrt.c
+  ha_tgt.c
+  ha_radar.c
+  ha_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(811): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(822): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2077): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2093): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2106): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2117): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2130): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_mfd.c(2141): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ha_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(165): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(179): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(196): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(213): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(226): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(239): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(250): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(261): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(303): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\havoc\ha_hud.c(316): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ha_hms.c
+  ha_eo.c
+  Generating Code...
+  Compiling...
+  ha_ekran.c
+  ha_dam.c
+  ha_avlmp.c
+  ha_avevn.c
+  df_wpn.c
+  df_thrt.c
+  df_tgt.c
+  df_radar.c
+  df_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(304): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(352): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(376): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(402): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(424): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(442): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(460): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(480): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(494): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(510): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(578): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(590): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(844): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(892): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(932): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(972): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(10408): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_mfd.c(10421): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  df_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_hud.c(197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_hud.c(218): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_hud.c(241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_hud.c(272): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\default\df_hud.c(432): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  df_hms.c
+  df_front.c
+  df_eo.c
+  df_dam.c
+  df_avlmp.c
+  df_avevn.c
+  co_wpn.c
+  co_wp.c
+  co_tsd.c
+  co_thrt.c
+  Generating Code...
+  Compiling...
+  co_tgt.c
+  co_symbl.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(103): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(125): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(145): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(167): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(183): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(201): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(217): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(235): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(265): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(287): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(307): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(329): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(345): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(363): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(379): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(397): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(427): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(449): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(469): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(491): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(507): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(525): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(541): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(559): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(589): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(611): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(631): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(653): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(669): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(687): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(703): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(721): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(751): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(773): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(793): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(815): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(831): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(849): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(865): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(883): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(913): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(935): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(955): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(977): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(993): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1011): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1027): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1045): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1073): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1093): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1111): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1131): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1147): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1165): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1181): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1199): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1229): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1251): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1271): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1293): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1309): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1327): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1343): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1361): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1423): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1479): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1503): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\common\co_symbl.c(1529): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+  co_radar.c
+  co_pfz.c
+  co_nvs.c
+  co_mfd.c
+  co_hud.c
+  co_hms.c
+  co_grstab.c
+  co_eo.c
+  co_dam.c
+  co_avevn.c
+  cm_thrt.c
+  cm_tgt.c
+  cm_radar.c
+  cm_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(444): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(492): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(516): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(542): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(564): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(582): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(600): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(620): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(634): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(650): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(667): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(684): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(701): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(910): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_mfd.c(922): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  cm_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_hud.c(214): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_hud.c(231): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\comanche\cm_hud.c(245): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  cm_hms.c
+  cm_eo.c
+  cm_dam.c
+  Generating Code...
+  Compiling...
+  cm_cowpn.c
+  cm_avlmp.c
+  cm_avevn.c
+  bh_wpn.c
+  bh_thrt.c
+  bh_tgt.c
+  bh_radar.c
+  bh_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(266): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(314): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(338): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(364): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(386): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(404): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(422): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(442): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(456): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(472): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(565): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(613): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(653): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_mfd.c(693): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  bh_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_hud.c(197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_hud.c(218): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_hud.c(241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\blackhawk\bh_hud.c(400): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  bh_hms.c
+  bh_front.c
+  bh_eo.c
+  bh_dam.c
+  bh_avlmp.c
+  bh_avevn.c
+  avionics.c
+  ap_wpn.c
+  ap_thrt.c
+  ap_tgt.c
+  ap_radar.c
+  Generating Code...
+  Compiling...
+  ap_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(318): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(366): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(390): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(416): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(438): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(456): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(474): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(494): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(508): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(524): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(552): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(580): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(594): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(606): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(870): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(918): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(958): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(998): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(10309): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_mfd.c(10322): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ap_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_hud.c(197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_hud.c(218): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_hud.c(241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_hud.c(272): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\apache\ap_hud.c(432): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ap_hms.c
+  ap_front.c
+  ap_eo.c
+  ap_dam.c
+  ap_avlmp.c
+  ap_avevn.c
+  ah_wpn.c
+  ah_thrt.c
+  ah_tgt.c
+  ah_radar.c
+  ah_mfd.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(266): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(314): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(338): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(364): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(386): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(404): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(422): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(442): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(456): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(472): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(565): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(613): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(653): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_mfd.c(693): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ah_hud.c
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_hud.c(197): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_hud.c(218): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_hud.c(241): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_hud.c(272): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\nhv90\projects\eech\aphavoc\source\gunships\avionics\ah64a\ah_hud.c(432): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  ah_hms.c
+  ah_front.c
+  ah_eo.c
+  ah_dam.c
+  ah_avlmp.c
+  ah_avevn.c
+  Generating Code...
+  Compiling...
+  global.c
+  gfxfiles.c
+  gameflow.c
+  game.c
+  flight.c
+  userdef.c
+  ev_fns.c
+  ev_debug.c
+  tacview.c
+  en_wp.c
+  en_task.c
+  en_suply.c
+  en_side.c
+  en_sbtyp.c
+  en_group.c
+  en_forms.c
+  en_force.c
+  en_msgs.c
+  en_world.c
+  en_init.c
+  Generating Code...
+  Compiling...
+  en_heap.c
+  en_dbase.c
+  en_vec3d.c
+  en_updt.c
+  en_str.c
+  en_snd.c
+  en_ptr.c
+  en_pack.c
+  en_list.c
+  en_int.c
+  en_funcs.c
+  en_float.c
+  en_dstry.c
+  en_draw.c
+  en_creat.c
+  en_char.c
+  en_att.c
+  en_valid.c
+  en_stats.c
+  en_dbmsg.c
+  Generating Code...
+  Compiling...
+  en_dblst.c
+  en_dbdrw.c
+  en_dbarg.c
+  en_sessn.c
+  en_comms.c
+  en_attrs.c
+  wp_vec3d.c
+  wp_str.c
+  wp_ptr.c
+  wp_pack.c
+  wp_msgs.c
+  wp_list.c
+  wp_int.c
+  wp_funcs.c
+  wp_float.c
+  wp_dstry.c
+  wp_draw.c
+  wp_dbase.c
+  wp_creat.c
+  wp_char.c
+  Generating Code...
+  Compiling...
+  waypoint.c
+  up_update.c
+  up_pack.c
+  up_msgs.c
+  up_list.c
+  up_funcs.c
+  up_dstry.c
+  up_creat.c
+  ts_vec3d.c
+  ts_updt.c
+  ts_str.c
+  ts_ptr.c
+  ts_pack.c
+  ts_msgs.c
+  ts_list.c
+  ts_int.c
+  ts_funcs.c
+  ts_float.c
+  ts_dstry.c
+  ts_dbase.c
+  Generating Code...
+  Compiling...
+  ts_creat.c
+  task.c
+  ss_vec3d.c
+  ss_updt.c
+  ss_pack.c
+  ss_msgs.c
+  ss_list.c
+  ss_int.c
+  ss_funcs.c
+  ss_float.c
+  ss_dstry.c
+  ss_creat.c
+  session.c
+  sector.c
+  sc_secfuncs.c
+  sc_seccreat.c
+  sc_pack.c
+  sc_msgs.c
+  sc_list.c
+  sc_int.c
+  Generating Code...
+  Compiling...
+  sc_float.c
+  sc_dstry.c
+  rg_vec3d.c
+  rg_updt.c
+  rg_pack.c
+  rg_msgs.c
+  rg_list.c
+  rg_int.c
+  rg_funcs.c
+  rg_float.c
+  rg_dstry.c
+  rg_creat.c
+  regen.c
+  pilot.c
+  pi_str.c
+  pi_pack.c
+  pi_msgs.c
+  pi_list.c
+  pi_int.c
+  pi_funcs.c
+  Generating Code...
+  Compiling...
+  pi_dstry.c
+  pi_creat.c
+  ld_vec3d.c
+  ld_updt.c
+  ld_str.c
+  ld_pack.c
+  ld_msgs.c
+  ld_list.c
+  ld_int.c
+  ld_funcs.c
+  ld_float.c
+  ld_dstry.c
+  ld_creat.c
+  landing.c
+  ks_vec3d.c
+  ks_updt.c
+  ks_str.c
+  ks_pack.c
+  ks_msgs.c
+  ks_list.c
+  Generating Code...
+  Compiling...
+  ks_int.c
+  ks_funcs.c
+  ks_float.c
+  ks_dstry.c
+  ks_dbase.c
+  ks_creat.c
+  keysite.c
+  guide.c
+  gd_vec3d.c
+  gd_updt.c
+  gd_ptr.c
+  gd_pack.c
+  gd_nav.c
+  gd_msgs.c
+  gd_list.c
+  gd_int.c
+  gd_funcs.c
+  gd_float.c
+  gd_dstry.c
+  gd_draw.c
+  Generating Code...
+  Compiling...
+  gd_dbase.c
+  gd_creat.c
+  gd_cover.c
+  gd_attck.c
+  ag_attck.c
+  aa_attck.c
+  group.c
+  gp_vec3d.c
+  gp_updt.c
+  gp_str.c
+  gp_ptr.c
+  gp_pack.c
+  gp_msgs.c
+  gp_list.c
+  gp_int.c
+  gp_funcs.c
+  gp_float.c
+  gp_dstry.c
+  gp_dbase.c
+  gp_creat.c
+  Generating Code...
+  Compiling...
+  force.c
+  fc_updt.c
+  fc_str.c
+  fc_pack.c
+  fc_msgs.c
+  fc_list.c
+  fc_int.c
+  fc_funcs.c
+  fc_float.c
+  fc_dstry.c
+  fc_creat.c
+  sprite.c
+  sp_vec3d.c
+  sp_updt.c
+  sp_pack.c
+  sp_msgs.c
+  sp_list.c
+  sp_int.c
+  sp_funcs.c
+  sp_float.c
+  Generating Code...
+  Compiling...
+  sp_dstry.c
+  sp_draw.c
+  sp_creat.c
+  speech.c
+  spch_wmn.c
+  spch_sys.c
+  spch_num.c
+  spch_hdg.c
+  spch_gc.c
+  spch_fac.c
+  spch_dis.c
+  spch_cpg.c
+  spch_cal.c
+  spch_atc.c
+  soundeff.c
+  se_vec3d.c
+  se_updt.c
+  se_snd.c
+  se_ptr.c
+  se_pack.c
+  Generating Code...
+  Compiling...
+  se_msgs.c
+  se_move.c
+  se_list.c
+  se_int.c
+  se_funcs.c
+  se_float.c
+  se_dstry.c
+  se_creat.c
+  smokelst.c
+  sl_vec3d.c
+  sl_updt.c
+  sl_smokefuncs.c
+  sl_pack.c
+  sl_msgs.c
+  sl_move.c
+  sl_meta.c
+  sl_list.c
+  sl_int.c
+  sl_float.c
+  sl_dstry.c
+  Generating Code...
+  Compiling...
+  sl_draw.c
+  sl_dbase.c
+  sl_creat.c
+  pa_updt.c
+  pa_pack.c
+  pa_msgs.c
+  pa_list.c
+  pa_int.c
+  pa_funcs.c
+  pa_float.c
+  pa_dstry.c
+  pa_draw.c
+  pa_creat.c
+  xp_wpn.c
+  xp_updt.c
+  xp_pack.c
+  xp_msgs.c
+  xp_list.c
+  xp_int.c
+  xp_funcs.c
+  Generating Code...
+  Compiling...
+  xp_float.c
+  xp_dstry.c
+  xp_draw.c
+  xp_dbase.c
+  xp_creat.c
+  explosn.c
+  ef_vec3d.c
+  ef_pack.c
+  ef_msgs.c
+  ef_list.c
+  ef_int.c
+  ef_funcs.c
+  ef_dbase.c
+  dw_dbase.c
+  downwash.c
+  dv_str.c
+  dv_pack.c
+  dv_msgs.c
+  dv_list.c
+  dv_int.c
+  Generating Code...
+  Compiling...
+  dv_funcs.c
+  dv_dstry.c
+  dv_dbase.c
+  dv_creat.c
+  division.c
+  cm_wpn.c
+  cm_view.c
+  cm_vec3d.c
+  cm_updt.c
+  cm_stat.c
+  cm_satel.c
+  cm_rvrs.c
+  cm_recog.c
+  cm_ptr.c
+  cm_pack.c
+  cm_msgs.c
+  cm_mode.c
+  cm_list.c
+  cm_int.c
+  cm_funcs.c
+  Generating Code...
+  Compiling...
+  cm_free.c
+  cm_flyby.c
+  cm_float.c
+  cm_explo.c
+  cm_end.c
+  cm_eject.c
+  cm_dstry.c
+  cm_drop.c
+  cm_dbrf.c
+  cm_creat.c
+  cm_cine.c
+  cm_chase.c
+  cm_build.c
+  cm_auto.c
+  cm_att.c
+  cm_actn.c
+  camera.c
+  bridge.c
+  br_vec3d.c
+  br_str.c
+  Generating Code...
+  Compiling...
+  br_pack.c
+  br_msgs.c
+  br_list.c
+  br_int.c
+  br_funcs.c
+  br_float.c
+  br_dstry.c
+  br_dbase.c
+  br_creat.c
+  wn_vec3d.c
+  wn_updt.c
+  wn_tgt.c
+  wn_str.c
+  wn_spch.c
+  wn_selct.c
+  wn_pack.c
+  wn_msgs.c
+  wn_move.c
+  wn_misc.c
+  wn_load.c
+  Generating Code...
+  Compiling...
+  wn_list.c
+  wn_int.c
+  wn_funcs.c
+  wn_float.c
+  wn_dstry.c
+  wn_draw.c
+  wn_decoy.c
+  wn_dbase.c
+c:\users\nhv90\projects\eech\aphavoc\source\entity\mobile\weapon\wn_dbase.c(5176): warning C4838: conversion from 'double' to 'unsigned int' requires a narrowing conversion
+  wn_creat.c
+  wn_cllsn.c
+  wn_anim.c
+  weapon.c
+  damage.c
+  vh_wpn.c
+  vh_vec3d.c
+  vh_tgt.c
+  vh_str.c
+  vh_ptr.c
+  vh_pack.c
+  vh_msgs.c
+  Generating Code...
+  Compiling...
+  vh_list.c
+  vh_int.c
+  vh_funcs.c
+  vh_float.c
+  vh_dbase.c
+  vh_anim.c
+  vehicle.c
+  ship.c
+  sh_updt.c
+  sh_pack.c
+  sh_msgs.c
+  sh_move.c
+  sh_int.c
+  sh_funcs.c
+  sh_float.c
+  sh_dstry.c
+  sh_draw.c
+  sh_creat.c
+  sh_anim.c
+  rv_updt.c
+  Generating Code...
+  Compiling...
+  rv_pack.c
+  rv_msgs.c
+  rv_move.c
+  rv_int.c
+  rv_funcs.c
+  rv_float.c
+  rv_dstry.c
+  rv_draw.c
+  rv_creat.c
+  rv_anim.c
+  routed.c
+  ps_updt.c
+  ps_pack.c
+  ps_msgs.c
+  ps_move.c
+  ps_int.c
+  ps_funcs.c
+  ps_float.c
+  ps_dstry.c
+  ps_draw.c
+  Generating Code...
+  Compiling...
+  ps_creat.c
+  ps_anim.c
+  person.c
+  anti_air.c
+  aa_updt.c
+  aa_pack.c
+  aa_msgs.c
+  aa_int.c
+  aa_funcs.c
+  aa_dstry.c
+  aa_draw.c
+  aa_creat.c
+  aa_anim.c
+  mobile.c
+  mb_vec3d.c
+  mb_tgt.c
+  mb_pack.c
+  mb_msgs.c
+  mb_move.c
+  mb_list.c
+  Generating Code...
+  Compiling...
+  mb_int.c
+  mb_funcs.c
+  mb_float.c
+  mb_att.c
+  cg_updt.c
+  cg_ptr.c
+  cg_pack.c
+  cg_msgs.c
+  cg_move.c
+  cg_list.c
+  cg_int.c
+  cg_funcs.c
+  cg_dstry.c
+  cg_draw.c
+  cg_creat.c
+  helicop.c
+  hc_vec3d.c
+  hc_updt.c
+  hc_tgt.c
+  hc_pack.c
+  Generating Code...
+  Compiling...
+  hc_msgs.c
+  hc_move.c
+  hc_list.c
+  hc_int.c
+  hc_funcs.c
+  hc_float.c
+  hc_dstry.c
+  hc_draw.c
+  hc_creat.c
+  hc_anim.c
+  fw_updt.c
+  fw_tgt.c
+  fw_pack.c
+  fw_msgs.c
+  fw_move.c
+  fw_list.c
+  fw_int.c
+  fw_funcs.c
+  fw_float.c
+  fw_dstry.c
+  Generating Code...
+  Compiling...
+  fw_draw.c
+  fw_creat.c
+  fw_anim.c
+  fixwing.c
+  aircraft.c
+  ac_wpn.c
+  ac_vec3d.c
+  ac_tgt.c
+  ac_str.c
+  ac_ptr.c
+  ac_pack.c
+  ac_msgs.c
+  ac_list.c
+  ac_int.c
+  ac_funcs.c
+  ac_float.c
+  ac_dbase.c
+  ac_anim.c
+  su_updt.c
+  su_pack.c
+  Generating Code...
+  Compiling...
+  su_msgs.c
+  su_list.c
+  su_int.c
+  su_funcs.c
+  su_float.c
+  su_dstry.c
+  su_draw.c
+  su_creat.c
+  su_anim.c
+  st_pack.c
+  st_msgs.c
+  st_list.c
+  st_int.c
+  st_funcs.c
+  st_float.c
+  st_dstry.c
+  st_draw.c
+  st_creat.c
+  sg_updt.c
+  sg_pack.c
+  Generating Code...
+  Compiling...
+  sg_msgs.c
+  sg_list.c
+  sg_int.c
+  sg_funcs.c
+  sg_float.c
+  sg_dstry.c
+  sg_draw.c
+  sg_dbase.c
+  sg_creat.c
+  segment.c
+  sn_pack.c
+  sn_msgs.c
+  sn_int.c
+  sn_funcs.c
+  sn_float.c
+  sn_dstry.c
+  sn_draw.c
+  sn_creat.c
+  pylon.c
+  py_ptr.c
+  Generating Code...
+  Compiling...
+  py_pack.c
+  py_msgs.c
+  py_int.c
+  py_funcs.c
+  py_float.c
+  py_dstry.c
+  py_draw.c
+  py_dbase.c
+  py_creat.c
+  ob_vec3d.c
+  ob_pack.c
+  ob_msgs.c
+  ob_funcs.c
+  ob_dstry.c
+  ob_draw.c
+  ob_creat.c
+  fx_vec3d.c
+  fx_str.c
+  fx_pack.c
+  fx_objdb.c
+  Generating Code...
+  Compiling...
+  fx_msgs.c
+  fx_list.c
+  fx_int.c
+  fx_funcs.c
+  fx_float.c
+  fx_dbase.c
+  fixed.c
+  cr_updt.c
+  cr_pack.c
+  cr_msgs.c
+  cr_list.c
+  cr_funcs.c
+  cr_float.c
+  cr_dstry.c
+  cr_draw.c
+  cr_dbase.c
+  cr_creat.c
+  ct_vec3d.c
+  ct_pack.c
+  ct_msgs.c
+  Generating Code...
+  Compiling...
+  ct_list.c
+  ct_int.c
+  ct_funcs.c
+  ct_float.c
+  ct_dstry.c
+  ct_draw.c
+  ct_creat.c
+  cb_pack.c
+  cb_msgs.c
+  cb_list.c
+  cb_int.c
+  cb_funcs.c
+  cb_float.c
+  cb_dstry.c
+  cb_draw.c
+  cb_creat.c
+  en_misc.c
+  en_maths.c
+  en_cllsn.c
+  sub_anim.c
+  Generating Code...
+  Compiling...
+  key_anim.c
+  en_anim.c
+  eechini.c
+  deinit.c
+  commsserver.c
+  comms.c
+  comm_man.c
+  cmndline.c
+  cdmusic.c
+  snd_init.c
+  snd_data.c
+  3d_snd.c
+  3d_main.c
+  3d_init.c
+  3d_draw.c
+  3d_data.c
+  taskgen.c
+  engage.c
+  croute.c
+  assign.c
+  Generating Code...
+  Compiling...
+  parsgen.c
+  suitable.c
+  setup.c
+  reaction.c
+c:\users\nhv90\projects\eech\aphavoc\source\ai\highlevl\reaction.c(484): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\nhv90\projects\eech\aphavoc\source\ai\highlevl\reaction.c(484): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  order.c
+  imaps.c
+  highlevl.c
+  routegen.c
+  popread.c
+  faction.c
+  briefing.c
+  ai_route.c
+  ai_misc.c
+  ai_dbase.c
+  ai.c
+  Generating Code...
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  en_types.c
+  EECH-MSVC.vcxproj -> C:\Users\nhv90\Projects\eech\Debug\EECH-MSVC.exe

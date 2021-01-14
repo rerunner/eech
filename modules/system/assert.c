@@ -73,7 +73,8 @@
 void process_assert (const char *exp, const char *file, int line)
 {
 
-	debug_fatal ("ASSERT %s (%s:%d)", exp, file, line);
+	//RERUN debug_fatal ("ASSERT %s (%s:%d)", exp, file, line);
+	debug_warning("ASSERT %s (%s:%d)", exp, file, line);
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
