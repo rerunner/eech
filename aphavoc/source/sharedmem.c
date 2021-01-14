@@ -15,6 +15,7 @@
  * will be copied.  Always NUL terminates (unless siz == 0).
  * Returns strlen(src); if retval >= siz, truncation occurred.
  */
+#if 0 //RERUN
 size_t strlcpy(char *dst, const char *src, size_t size)
 {
    char *d = dst;
@@ -38,7 +39,7 @@ size_t strlcpy(char *dst, const char *src, size_t size)
 
    return (s - src - 1);        /* count does not include NUL */
 }
-
+#endif //RERUN
 static HANDLE gHandleSharedMemory;
 
 shared_memory_t* gPtrSharedMemory = NULL;

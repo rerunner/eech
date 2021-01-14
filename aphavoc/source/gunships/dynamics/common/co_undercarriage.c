@@ -358,7 +358,7 @@ static void update_suspension(void)
 				if (point->can_turn && (fabs(point->velocity.x) > 0.1 || fabs(point->velocity.z) > 0.1))
 				{
 					float
-						max_turn_rate = rad(180) * get_model_delta_time() * (min(fabs(point->velocity.z) + fabs(point->velocity.x), 2.0f)) * 0.5,
+						max_turn_rate = rad(180) * get_model_delta_time() * (min((float)fabs(point->velocity.z) + (float)fabs(point->velocity.x), 2.0f)) * 0.5,
 						new_angle;
 
 

@@ -2012,7 +2012,7 @@ void update_attitude_dynamics (void)
 			scaling = 1.0 - (1.0 / a);
 		}
 
-		scaling = min (fabs (scaling), 1.0f);
+		scaling = min ((float)fabs (scaling), 1.0f);
 
 		reaction_force += (tail_angular_force - main_angular_force) * scaling;
 
@@ -2585,7 +2585,7 @@ void update_attitude_dynamics (void)
 		float air_over_rotor = -fabs(main_rotor_induced_air_value) - model_motion_vector.y;
 		float vibration_limit = -fabs(main_rotor_induced_air_value) - model_motion_vector.y * 0.6;
 		float velocity_factor = max (((current_flight_dynamics->main_rotor_induced_vortex_air_flow.min -
-					   fabs (model_motion_vector.z)) / current_flight_dynamics->main_rotor_induced_vortex_air_flow.min), 0.0f);
+			(float)fabs (model_motion_vector.z)) / current_flight_dynamics->main_rotor_induced_vortex_air_flow.min), 0.0f);
 
 		// arneh - create vibration when close to vortex ring state
 		if (vibration_limit > 0.0 && !(current_flight_dynamics->dynamics_damage & DYNAMICS_DAMAGE_MAIN_ROTOR_BLADE) && velocity_factor > 0.0)

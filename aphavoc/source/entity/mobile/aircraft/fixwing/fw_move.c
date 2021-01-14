@@ -1087,9 +1087,9 @@ void fixed_wing_taxi(entity *en, vec3d *current_pos, vec3d *dist, vec3d *new_pos
 
 	get_3d_transformation_matrix (raw->ac.mob.attitude, new_heading, new_pitch, 0.0);
 
-	dist->x = min (raw->ac.mob.velocity * raw->ac.mob.zv.x * get_entity_movement_delta_time (), fabs (wp_vec.x));
+	dist->x = min ((float)(raw->ac.mob.velocity * raw->ac.mob.zv.x * get_entity_movement_delta_time ()), (float)fabs (wp_vec.x));
 	dist->y = 0.0;
-	dist->z = min (raw->ac.mob.velocity * raw->ac.mob.zv.z * get_entity_movement_delta_time (), fabs (wp_vec.z));
+	dist->z = min ((float)(raw->ac.mob.velocity * raw->ac.mob.zv.z * get_entity_movement_delta_time ()), (float)fabs (wp_vec.z));
 
 	#if DEBUG_MODULE
 

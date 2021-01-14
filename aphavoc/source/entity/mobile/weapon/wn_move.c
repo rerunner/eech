@@ -1651,8 +1651,7 @@ void calculate_projectory(weapon* wpn, FILE* output)
 		pitch_ratio = tan(pitch);
 
 		// don't calculate out to entire range for very high or low pitch values (takes too long)
-		max_range = min(weapon_database[wpn->mob.sub_type].max_range,
-			weapon_database[wpn->mob.sub_type].max_range * cos(pitch) * 1.25f);
+		max_range = min((float)(weapon_database[wpn->mob.sub_type].max_range), (float)(weapon_database[wpn->mob.sub_type].max_range * cos(pitch) * 1.25f));
 
 		while (wpn->mob.position.z < max_range)
 		{
