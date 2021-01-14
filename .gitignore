@@ -19,3 +19,5 @@ mt.dep
 *.pch
 *.idb
 *.pdb
+Debug/*
+Release/*
